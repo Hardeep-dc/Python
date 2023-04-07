@@ -10,3 +10,4 @@ There are 2 files in this repository, namely:
 We are using the python_pandas file to use pandas library to:
 1) read the csv file.
 2) find information on the csv fie dataset using various pandas functions.
+3) the code has been commented for easier understanding of each funnction.
